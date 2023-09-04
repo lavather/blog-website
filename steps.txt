@@ -1,0 +1,41 @@
+- create visual guide in drawio for better breakdown of content
+-> desktop >>>>>>>>>>> done
+-> mobile >>>>>>>>> done
+
+
+create basic layout for each site with dummy content 
+    home
+    about me
+    focused post
+-> all of them share the same header / navbar and footer >>>>>>>>>> done
+
+>>>>>>>>> navbar in mobile done with grid
+-------> Home and About me still need to be turned into links >>>>>> done
+
+
+
+view more button requires js to open up more posts. id say 3 or 4?>>>>>> done
+
+--------------------------------------------------------------------------------------------------------------
+
+requirements:
+- mobile first >>>>>>>>>done
+- media queries >>>>>>> done
+- scalable units >>>>>>>>>done i think
+- viewport metatag >>>>>>>>>done
+
+
+stretch goals
+- display other posts via links >>>>>> partly done, requires more JS and restructuring of the texts, beyond the scope of this project
+- hamburger menu on small screens  <<<<<<<<<< not done
+
+-------------------------------------------------------------------------------------------------------------
+
+personal goals
+- hamburger menu with "rollout" content
+- different color scheme
+- hover effect on focus image?
+- make images clickable (div container & event-listener?)
+
+
+
